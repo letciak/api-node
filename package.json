@@ -4,7 +4,8 @@
   "description": "",
   "main": "nodemon ./api/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon ./api/index.js"
+ 
   },
   "keywords": [],
   "author": "",
